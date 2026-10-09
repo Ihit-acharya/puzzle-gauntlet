@@ -1,0 +1,12 @@
+<-Level 1->
+hide in the background using the same color of it.
+
+<--Level 2-->
+make a puzzle of colored button presses.
+  The pattern to solve the colored buttons.. to hide
+    write a statement or a paragraph that says the frequency of light waves for each color hidden that when pressed in order gives the color pattern.
+  
+  The powered rails look amber at first when powered by a faint red glint close to it and looks brown at the end. the detector rails feature a white pressure point in the middle with black regular rails right after it.
+
+
+amber red  white black  brown
